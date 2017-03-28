@@ -47,7 +47,7 @@ window.onload = function(){
 			gestionarXml(this);
 		}
 	};
-	xhttp.open ("GET", "http://localhost/historia/xml/historia.xml", true);
+	xhttp.open ("GET", "https://rawgit.com/LBarry97/ProyectoHistoria/master/xml/historia.xml", true);
 	xhttp.send ();
 	//Leer el fichero xml}
 	
