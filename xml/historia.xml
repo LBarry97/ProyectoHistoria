@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--<!DOCTYPE questions SYSTEM "historia.dtd">(para un .dtd)-->
+
+
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="historia.xsd">
+	<!-- Edades de la historia -->
+	<question id="jklm_001">
+		<type>text</type>
+		<title>1.- ¿La especie humana y los mamuts compartieron hábitat?</title>
+		<answer>si</answer>
+	</question>
+	<question id="jklm_002">
+		<type>text</type>
+		<title>2.- ¿En honor de qué dios griego se celebraban los Juegos Olímpicos? (Poseidón, Zeus, Apolo, Heracles)</title>
+		<answer>zeus</answer>
+	</question>
+	<question id="jklm_003">
+		<type>select</type>
+		<title>3.- ¿Qué Edad de la Historia tuvo una época que se caracterizaba por el ideal de belleza y perfección?</title>
+		<option>Edad Media</option>
+		<option>Edad Moderna y Contemporánea</option>
+		<option>Prehistoria</option>
+		<option>Antigua</option> 
+		<answer>3</answer>
+	</question>
+	<question id="jklm_004">
+		<type>select</type>
+		<title>4.- En América, ¿qué territorio descubrieron y colonizaron los portugueses?</title>
+		<option>Brasil</option>
+		<option>Chile</option>
+		<option>Argentina</option>
+		<answer>0</answer>
+	</question>
+	<question id="jklm_005">
+		<type>radio</type>
+		<title>5.- Selecciona el orden cronológico adecuado:</title>
+		<option>Edad Media, Prehistoria, Edad Moderna y Contemporánea, Edad Antigua</option>
+		<option>Prehistoria, Edad Antigua, Edad Media, Edad Moderna y Contemporánea</option>
+		<option>Edad Moderna y Contemporánea, Edad Antigua, Prehistoria, Edad Media</option>
+		<option>Prehistoria, Edad Antigua, Edad Media, Edad Moderna y Contemporánea</option>
+		<answer>1</answer>
+	</question>
+	<question id="jklm_006">
+		<type>radio</type>
+		<title>6.- ¿Cuál fue el primer homínido?</title>
+		<option>Homo Erectus</option>
+		<option>Homo Habilis</option>
+		<option>Australopithecus</option>
+		<answer>2</answer>
+	</question>
+	<question id="jklm_007">
+		<type>checkbox</type>
+		<title>7.- ¿Cuáles fueron las posesiones del reino español en el siglo XVI?</title>
+		<option>Toda América Latina</option>
+		<option>América Latina excepto Argentina</option>
+		<option>América Latina excepto Brasil</option>
+		<answer>2</answer>
+	</question>
+	<question id="jklm_008">
+		<type>checkbox</type>
+		<title>8.- El hombre de Cro-Magnon se extinguió debido principalmente a:</title>
+		<option>Cambios Climáticos</option>
+		<option>Guerras y Mestizaje</option>
+		<option>Enfermedades</option>
+		<answer>1</answer>
+	</question>
+	<question id="jklm_009">
+		<type>multiple</type>
+		<title>9.- En el periodo medieval, era el estamento más alto después del rey. No pagaban impuestos. ¿A qué grupo social corresponde la descripción?</title>
+		<option>Los campesinos</option>
+		<option>El clero</option>
+		<option>La nobleza</option>
+		<option>Señores feudales</option>
+		<answer>2</answer>
+		<answer>3</answer>
+	</question>
+	<question id="jklm_010">
+		<type>multiple</type>
+		<title>10.- Cuando no había guerra declarada, ¿qué distracciones tenían los señores?</title>
+		<option>Cacerías, justas y torneos</option>
+		<option>Las Cruzadas</option>
+		<option>Asistiendo a misa</option>
+		<option>Canciones de trovadores</option>
+		<answer>0</answer>
+		<answer>3</answer>
+	</question>
+</questions>
