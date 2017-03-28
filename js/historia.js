@@ -21,8 +21,6 @@ var nodo=null;
 var conTenedor=null;//Guarda el contenido del nodo
 var contY=0;//Contador
 
-var mostrar=false;//Para decidir cuando se motrara el "BOOTON-->Repetir"
-
 //Al cargar la pagina{
 window.onload = function(){
 	//El formulario{
@@ -451,7 +449,6 @@ function coprobarPreguntas(){
 		alert("No has respondido la pregunta 10, de tipo multiple");
 		return false;
 	}else{
-		mostrar=true;
 		return true;
 	}
 }
